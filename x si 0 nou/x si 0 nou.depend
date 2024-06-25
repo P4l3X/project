@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716225210 source:d:\x si zeroo\x si 0 nou\main.cpp
+	<iostream>
+	"afisare.h"
+	<conio.h>
+	<windows.h>
+
+1716225236 d:\x si zeroo\x si 0 nou\afisare.h
+
